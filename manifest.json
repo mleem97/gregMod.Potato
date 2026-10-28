@@ -1,7 +1,7 @@
 {
     "author": "TeamGreg Modding",
     "name": "gregMod.Potato",
-    "version": "1.0.0",
+    "version": "1.0.2-dev",
     "description": "Potato mode: disables perf-heavy effects and forces lowest texture quality, with full restore.",
     "dependencies": []
 }
